@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (laba 6.1.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  UnitTest1.cpp
+     Создается библиотека C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\laba 6.1.it\x64\Debug\UnitTest1.lib и объект C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\laba 6.1.it\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\mrtvi\OneDrive\Рабочий стол\Лаби Visual Studio\laba 6.1.it\x64\Debug\UnitTest1.dll
